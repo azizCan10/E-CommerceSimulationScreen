@@ -1,3 +1,3 @@
 Java dili kullanılarak yazılmıştır
 
-Eclipse-Netbeans-Intellij idea ideleri tavsiye edilir
+Eclipse-Netbeans-Intellij idea idelerinde çalıştırılması tavsiye edilir
