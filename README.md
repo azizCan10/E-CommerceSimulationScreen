@@ -1,3 +1,3 @@
 Written with Java
 
-Eclipse and Netbeans ides are recommended
+Eclipse and Netbeans ides are recommended to run
